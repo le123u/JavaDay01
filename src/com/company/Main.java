@@ -1,4 +1,4 @@
-package com.neusoft;
+package com.company;
 
 public class Main {
 
